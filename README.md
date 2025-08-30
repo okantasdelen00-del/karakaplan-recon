@@ -1,1 +1,0 @@
-# karakaplan-recon
